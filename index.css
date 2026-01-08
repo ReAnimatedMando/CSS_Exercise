@@ -19,3 +19,7 @@ section {
     display: inline;
 }
 
+nav ul {
+    list-style: none;
+}
+
